@@ -14,7 +14,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/simarjot-singh-maan-88358040a/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFB300" /></a>
-<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFB300" /></a>
+<a href="https://github.com/Simar4341"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFB300" /></a>
 <a href="mailto:simarjotsinghmaan@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFB300" /></a>
 <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FFB300" /></a>
 
@@ -90,7 +90,7 @@ I work at the intersection of **research and production** — designing AI syste
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FFB300&icon_color=FFB300&text_color=E0E0E0&ring_color=FFB300" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true&background=00000000&ring=FFB300&fire=FFB300&currStreakLabel=FFB300&sideLabels=E0E0E0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FFB300&text_color=E0E0E0&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simar4341&layout=compact&theme=transparent&hide_border=true&title_color=FFB300&text_color=E0E0E0&langs_count=8" />
 
 </div>
 
