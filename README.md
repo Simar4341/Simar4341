@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ```
 const aboutMe = {
-  name: "Your Name",
+  name: "Simarjot Singh Maan",
   role: "AI/ML Researcher · Builder",
   focus: ["LLM Safety", "AI Defense Systems", "Full-Stack Web Dev"],
   currentlyExploring: "multi-layer guardrail frameworks for language models",
