@@ -1,6 +1,6 @@
 <!-- ════════════════════════════════════════════
      GITHUB PROFILE README — replace every
-     YOUR-USERNAME / links below
+     Simar4341 / links below
      ════════════════════════════════════════════ -->
 
 <div align="center">
@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1a1a1a&height=220&section=header&text=Simarjot%20Singh%20Maan&fontSize=38&fontColor=FFB300&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Researcher%20%C2%B7%20Builder&descAlignY=58&descSize=18&descColor=E0E0E0" width="100%"/>
 
 <a href="https://github.com/Simar4341">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFB300&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Researcher;Building+LLM+Guardrails+%26+Defense+Systems;Full-Stack+Web+Developer;Open+to+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFB300&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Researcher;Quantitative+Analyst+%26+Trader;Building+LLM+Guardrails+%26+Defense+Systems;Full-Stack+Web+Developer;Open+to+Collaboration" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 <a href="mailto:simarjotsinghmaan@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFB300" /></a>
 <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FFB300" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=FFB300&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Simar4341&label=Profile+Views&color=FFB300&style=flat-square" />
 
 </div>
 
@@ -29,8 +29,8 @@
 ```
 const aboutMe = {
   name: "Simarjot Singh Maan",
-  role: "AI/ML Researcher · Builder",
-  focus: ["LLM Safety", "AI Defense Systems", "Full-Stack Web Dev"],
+  role: "AI/ML Researcher · Quant Trader · Builder",
+  focus: ["LLM Safety", "AI Defense Systems", "Quantitative Trading", "Full-Stack Web Dev"],
   currentlyExploring: "multi-layer guardrail frameworks for language models",
   funFact: "stays close to the code, not just the whiteboard"
 };
@@ -45,6 +45,7 @@ I work at the intersection of **research and production** — designing AI syste
 ### 🎯 Focus Areas
 - **AI / ML Research** — model design, evaluation, safety
 - **LLM Guardrails** — multi-layer defense pipelines
+- **Quantitative Trading** — market analysis, strategy backtesting
 - **Web Development** — full-stack, design systems
 - **Open Source** — building in public
 
@@ -79,6 +80,14 @@ I work at the intersection of **research and production** — designing AI syste
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=FFB300)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0A0A0A?style=for-the-badge&logo=streamlit&logoColor=FFB300)
 
+<br/>
+
+![TradingView](https://img.shields.io/badge/TradingView-0A0A0A?style=for-the-badge&logo=tradingview&logoColor=FFB300)
+![Quant Analysis](https://img.shields.io/badge/Quantitative_Analysis-0A0A0A?style=for-the-badge&logoColor=FFB300)
+![Algo Trading](https://img.shields.io/badge/Algorithmic_Trading-0A0A0A?style=for-the-badge&logoColor=FFB300)
+![Backtesting](https://img.shields.io/badge/Backtesting-0A0A0A?style=for-the-badge&logoColor=FFB300)
+![Risk Management](https://img.shields.io/badge/Risk_Management-0A0A0A?style=for-the-badge&logoColor=FFB300)
+
 </div>
 
 <br/>
@@ -99,7 +108,7 @@ I work at the intersection of **research and production** — designing AI syste
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Simar4341&theme=darkhub&no-frame=true&column=-1&margin-w=10" />
 </div>
 
 <br/>
@@ -109,8 +118,8 @@ I work at the intersection of **research and production** — designing AI syste
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Simar4341/Simar4341/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Simar4341/Simar4341/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
