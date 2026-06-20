@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1a1a1a&height=220&section=header&text=Simarjot%20Singh%20Maan&fontSize=38&fontColor=FFB300&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Researcher%20%C2%B7%20Builder&descAlignY=58&descSize=18&descColor=E0E0E0" width="100%"/>
 
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/Simar4341">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFB300&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Researcher;Building+LLM+Guardrails+%26+Defense+Systems;Full-Stack+Web+Developer;Open+to+Collaboration" alt="Typing SVG" />
 </a>
 
@@ -87,8 +87,8 @@ I work at the intersection of **research and production** — designing AI syste
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FFB300&icon_color=FFB300&text_color=E0E0E0&ring_color=FFB300" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true&background=00000000&ring=FFB300&fire=FFB300&currStreakLabel=FFB300&sideLabels=E0E0E0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Simar4341&show_icons=true&theme=transparent&hide_border=true&title_color=FFB300&icon_color=FFB300&text_color=E0E0E0&ring_color=FFB300" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Simar4341&theme=dark&hide_border=true&background=00000000&ring=FFB300&fire=FFB300&currStreakLabel=FFB300&sideLabels=E0E0E0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simar4341&layout=compact&theme=transparent&hide_border=true&title_color=FFB300&text_color=E0E0E0&langs_count=8" />
 
