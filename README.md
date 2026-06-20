@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**Simar4341/Simar4341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<!-- ════════════════════════════════════════════
+<!-- ════════════════════════════════════════════
      GITHUB PROFILE README — replace every
      YOUR-USERNAME / Your Name / links below
      ════════════════════════════════════════════ -->
@@ -35,7 +28,7 @@ Here are some ideas to get you started:
 
 ```
 const aboutMe = {
-  name: "Simarjot Singh Maan",
+  name: "Your Name",
   role: "AI/ML Researcher · Builder",
   focus: ["LLM Safety", "AI Defense Systems", "Full-Stack Web Dev"],
   currentlyExploring: "multi-layer guardrail frameworks for language models",
@@ -136,12 +129,3 @@ I work at the intersection of **research and production** — designing AI syste
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0D0D0D&height=120&section=footer" width="100%"/>
 
 </div>
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
