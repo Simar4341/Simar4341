@@ -1,11 +1,11 @@
 <!-- ════════════════════════════════════════════
      GITHUB PROFILE README — replace every
-     YOUR-USERNAME / Your Name / links below
+     YOUR-USERNAME / links below
      ════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1a1a1a&height=220&section=header&text=Your%20Name&fontSize=46&fontColor=FFB300&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Researcher%20%C2%B7%20Builder&descAlignY=58&descSize=18&descColor=E0E0E0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1a1a1a&height=220&section=header&text=Simarjot%20Singh%20Maan&fontSize=38&fontColor=FFB300&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Researcher%20%C2%B7%20Builder&descAlignY=58&descSize=18&descColor=E0E0E0" width="100%"/>
 
 <a href="https://github.com/YOUR-USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFB300&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Researcher;Building+LLM+Guardrails+%26+Defense+Systems;Full-Stack+Web+Developer;Open+to+Collaboration" alt="Typing SVG" />
@@ -13,9 +13,9 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFB300" /></a>
+<a href="https://www.linkedin.com/in/simarjot-singh-maan-88358040a/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFB300" /></a>
 <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFB300" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFB300" /></a>
+<a href="mailto:simarjotsinghmaan@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFB300" /></a>
 <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FFB300" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=FFB300&style=flat-square" />
@@ -28,7 +28,7 @@
 
 ```
 const aboutMe = {
-  name: "Your Name",
+  name: "Simarjot Singh Maan",
   role: "AI/ML Researcher · Builder",
   focus: ["LLM Safety", "AI Defense Systems", "Full-Stack Web Dev"],
   currentlyExploring: "multi-layer guardrail frameworks for language models",
@@ -122,9 +122,9 @@ I work at the intersection of **research and production** — designing AI syste
 <div align="center">
 
 ### 💬 Let's build something
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=FFB300" /></a>
+<a href="https://www.linkedin.com/in/simarjot-singh-maan-88358040a/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=FFB300" /></a>
 <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=FFB300" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=FFB300" /></a>
+<a href="mailto:simarjotsinghmaan@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=FFB300" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0D0D0D&height=120&section=footer" width="100%"/>
 
