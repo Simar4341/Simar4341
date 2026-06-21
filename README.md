@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/simarjot-singh-maan-88358040a/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFB300" /></a>
 <a href="https://github.com/Simar4341"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFB300" /></a>
 <a href="mailto:simarjotsinghmaan@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFB300" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FFB300" /></a>
+<a href="https://simarjotsinghmaan.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FFB300" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Simar4341&label=Profile+Views&color=FFB300&style=flat-square" />
 
